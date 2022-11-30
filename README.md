@@ -1,5 +1,5 @@
 # DC Motor 
-DC motor driver source code and schematics used in ECE 3709-L. Built using Megunolink, Arduino, and includes MATLAB files. 
+DC motor driver source code and schematics used in ECE 3709-L. Built using Arduino and MegunoLink. Also includes MATLAB files for theory.  
 
 ## Materials
 - L-298N Motor Drive
