@@ -1,4 +1,4 @@
-# DC Motor Source Files 
+# DC Motor 
 DC motor driver source code and schematics used in ECE 3709-L. Built using Megunolink, Arduino, and includes MATLAB files. 
 
 ## Materials
